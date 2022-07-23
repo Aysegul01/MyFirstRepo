@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PrdtllFGfef8b9xoarH2YmrZOQ9TfjVFH+ULC7WCVe4DVaXgnHVSNLH95UKwqlivVYloh3BPBVvmgnxMbOYZDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ayşegül\\source\\repos\\donguler\\donguler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayşegül\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

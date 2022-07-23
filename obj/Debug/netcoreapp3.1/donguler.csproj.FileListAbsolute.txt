@@ -1,0 +1,11 @@
+C:\Users\Ayşegül\source\repos\donguler\bin\Debug\netcoreapp3.1\donguler.exe
+C:\Users\Ayşegül\source\repos\donguler\bin\Debug\netcoreapp3.1\donguler.deps.json
+C:\Users\Ayşegül\source\repos\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.json
+C:\Users\Ayşegül\source\repos\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.dev.json
+C:\Users\Ayşegül\source\repos\donguler\bin\Debug\netcoreapp3.1\donguler.dll
+C:\Users\Ayşegül\source\repos\donguler\bin\Debug\netcoreapp3.1\donguler.pdb
+C:\Users\Ayşegül\source\repos\donguler\obj\Debug\netcoreapp3.1\donguler.csprojAssemblyReference.cache
+C:\Users\Ayşegül\source\repos\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfoInputs.cache
+C:\Users\Ayşegül\source\repos\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfo.cs
+C:\Users\Ayşegül\source\repos\donguler\obj\Debug\netcoreapp3.1\donguler.dll
+C:\Users\Ayşegül\source\repos\donguler\obj\Debug\netcoreapp3.1\donguler.pdb
